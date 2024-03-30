@@ -96,7 +96,6 @@
 
 	document.getElementById("search").style.display = "none"
 	document.getElementById("filters").style.display = "none"
-	// document.getElementById("filters").style.visibility = "hidden"
 
 	function setTagsButton() {
 		let buttonTag = document.querySelectorAll('.button-buttons-filters');
