@@ -24,6 +24,20 @@ button>img {
 	max-width: 40px;
 }
 
+button:focus {
+	background-color: rgb(0, 0, 255);
+	color: rgb(255, 255, 255);
+}
+
+.button-buttons-filters:focus {
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 255);
+}
+.button-button-search:focus {
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 255);
+}
+
 canvas {
 	position: fixed;
 	bottom: 10px;
