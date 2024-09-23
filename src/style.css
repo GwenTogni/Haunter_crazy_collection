@@ -15,8 +15,8 @@ button {
 	padding: 10px;
 	margin-bottom: 3px;
 	border-radius: 50px;
-	color: rgb(0, 0, 255);
-	border-color: rgb(0, 0, 255);
+	color:  rgb(0, 0, 0);
+	border-color:  rgb(100, 100, 255);
 	border-style: solid;
 }
 
@@ -25,17 +25,17 @@ button>img {
 }
 
 button:focus {
-	background-color: rgb(0, 0, 255);
+	background-color: rgb(100, 100, 255);
 	color: rgb(255, 255, 255);
 }
 
 .button-buttons-filters:focus {
 	background-color: rgb(255, 255, 255);
-	color: rgb(0, 0, 255);
+	color: rgb(100, 100, 255);
 }
 .button-button-search:focus {
 	background-color: rgb(255, 255, 255);
-	color: rgb(0, 0, 255);
+	color: rgb(100, 100, 255);
 }
 
 canvas {
@@ -63,8 +63,8 @@ input {
 	background-color: rgb(255, 255, 255);
 	padding: 10px;
 	border-radius: 50px;
-	color: rgb(0, 0, 255);
-	border-color: rgb(0, 0, 255);
+	color: rgb(0, 0, 0);
+	border-color: rgb(100, 100, 255);
 	border-style: solid;
 }
 
@@ -95,7 +95,7 @@ input {
 
 #container>ul>li.list-item.active {
 	background: rgb(255, 255, 255);
-	color: rgb(0, 0, 255);
+	color: rgb(100, 100, 255);
 	position: fixed;
 	left: 0;
 	top: 0;
