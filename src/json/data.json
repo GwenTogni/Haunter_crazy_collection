@@ -219,7 +219,7 @@
     {
         "image": "32.JPG",
         "title": "1664",
-        "tag": "animals, objects",
+        "tag": "",
         "colors": "03blue",
         "year": "2011"
     },
@@ -366,7 +366,7 @@
     {
         "image": "53.JPG",
         "title": "Bayerisches Bier",
-        "tag": "animals, objects",
+        "tag": "",
         "colors": "10white",
         "year": "2011"
     },
@@ -443,7 +443,7 @@
     {
         "image": "64.JPG",
         "title": "Birra Peroni",
-        "tag": "plants, animals",
+        "tag": "",
         "colors": "10white",
         "year": "2011"
     },
@@ -765,42 +765,42 @@
     {
         "image": "110.JPG",
         "title": "Eichhof - Alkoholfrei",
-        "tag": "animals, objects",
+        "tag": "",
         "colors": "10white",
         "year": "2011"
     },
     {
         "image": "111.JPG",
         "title": "Eichhof - Barbara",
-        "tag": "animals, objects, plants",
+        "tag": "",
         "colors": "02black",
         "year": "2011"
     },
     {
         "image": "112.JPG",
         "title": "Eichhof - Braungold",
-        "tag": "animals, objects",
+        "tag": "",
         "colors": "10white",
         "year": "2011"
     },
     {
         "image": "113.JPG",
         "title": "Eichhof - Lager",
-        "tag": "animals, objects, arrows",
+        "tag": "arrows",
         "colors": "05yellow",
         "year": "2011"
     },
     {
         "image": "114.JPG",
         "title": "Eichhof - Lager",
-        "tag": "animals, objects",
+        "tag": "",
         "colors": "05yellow",
         "year": "2011"
     },
     {
         "image": "115.JPG",
         "title": "Eichhof - Spiess",
-        "tag": "animals, objects",
+        "tag": "animals",
         "colors": "10white",
         "year": "2011"
     },
@@ -1936,13 +1936,6 @@
         "title": "Smirnoff",
         "tag": "objects",
         "colors": "07red",
-        "year": "2023"
-    },
-    {
-        "image": "278.JPG",
-        "title": "Eichhof - Spiess - Draft",
-        "tag": "animals",
-        "colors": "10white",
         "year": "2023"
     },
     {
